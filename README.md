@@ -1,5 +1,5 @@
-2014-02
+LEVEL 125 (2014-02)
 
-Originální čeština vytažena z The Suffering Compilation. Odzkoušena na verzi z Levelu 125
+Oficiální CZ od CD Projekt
 
 https://github.com/hornster02/The_Suffering-2004-CZ/raw/main/The_Suffering_2004_cestina.rar
